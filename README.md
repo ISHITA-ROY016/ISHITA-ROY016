@@ -1,3 +1,8 @@
+<h1 align="center">Hi 👋, I'm Ishita Roy</h1>
+<h3 align="center">A passionate web developer who loves solving problems, building projects, and learning new technologies.</h3>
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning Next-js, Springboot<br><br>👯 I’m looking to collaborate on Any dev project you want to work on!!<br><br>💬 Ask me about Java, Javascript, React-js<br><br>📫 Reach me  at royishita016@gmail.com<br><br>📄 You can find more about my experiences [in my resume](https://docs.google.com/document/d/1dJtVjCxb7ZhF5ttfWr7b222FM8S5r6gfND4lWj4Mf1k/edit?usp=sharing).<br>
 
